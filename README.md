@@ -125,3 +125,8 @@ To generate our home screen application assets, we need a single 1024px x 1024px
 [Export Layer as Android XXHDPI, XHDPI, HDPI, MDPI, and LDPI assets](https://github.com/UncorkedStudios/export-to-android)  
 [Consolidate Images using Automator](http://www.macworld.com/article/1160660/automator_filesfromsubfolders.html)  
 [Merge Folders AppleScript](https://gist.github.com/deadcoda/1995482)
+
+
+**Ulternativly we can use below technology also**
+1. http://retinize.it/
+2. https://gist.github.com/menaweb/47d7e09d59d45d21eb7b#file-create-ios-assets-icons-jsx
